@@ -9,9 +9,9 @@ To cite this repository in publications:
 
     @misc{Quadcopter-env,
       author = {Yoav Alon},
-      title = {Quadcopter-env Reinforcement Learning Environment},
+      title = {Multi-Quadcopter-Reinforcment-Learning},
       year = {2020},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/yoavalon/Quadcopter-env}},
+      howpublished = {\url{https://github.com/yoavalon/MultiQuadcopterReinforcmentLearning}},
     }
