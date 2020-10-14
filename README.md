@@ -7,7 +7,7 @@ Multi-Critic Policy Gradient Optimization for Quadcopter Coordination
 
 To cite this repository in publications:
 
-    @misc{Quadcopter-env,
+    @misc{Multi-Quadcopter-env,
       author = {Yoav Alon},
       title = {Multi-Quadcopter-Reinforcment-Learning},
       year = {2020},
